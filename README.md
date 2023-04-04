@@ -31,6 +31,7 @@ __>__ Statistical Operations<br>
 ### NumPy Works 6:
 __>__ Reshaping Arrays<br>
 __>__ Stacking Arrays<br>
+__>__ Concatenating Arrays<br>
 
 ### NumPy Works 7:
 __>__ Load Data From File<br>
